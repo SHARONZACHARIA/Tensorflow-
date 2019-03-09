@@ -1,2 +1,6 @@
-Tensorflow
-celsius to fahrenheit conversion using tensorflow 
+ simple celsius to fahrenheit conversion using tensorflow 
+ 
+ Tensorflow
+ numpy
+ matplotlib
+
