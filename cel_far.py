@@ -16,4 +16,4 @@ plt.plot(history.history['loss'])
 
 history = model.fit(celcius_q,far_q,epochs=500,verbose=False)
 
-print(model.predict([100])) 
+print(model.predict([100])) # sampe input for prediction 
