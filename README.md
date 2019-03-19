@@ -1,6 +1,9 @@
- simple celsius to fahrenheit conversion using tensorflow 
- 
- Tensorflow
- numpy
- matplotlib
+#      Tensorflow - Regression 
+
+###    Demonstration of Regression uisng Tensorflow 
+
+###### Libraries used  
+       Tensorflow
+       numpy
+       matplotlib
 
